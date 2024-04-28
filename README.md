@@ -1,4 +1,4 @@
-Raspberry Pi Enthusiast with a Passion for Streamlining Automation, and mastering data aggregation and correlation.
+TheTinker
 
 <!---
 BBBB                  i      t      h         EEEEEE
