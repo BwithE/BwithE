@@ -1,1 +1,1 @@
-My coding playground
+Welcome to my coding sandbox for experimentation, trial, and error. It’s where ideas evolve, mistakes become learning opportunities, and successes take shape.
