@@ -1,1 +1,1 @@
-Welcome to my coding sandbox for experimentation, trial, and error. It’s where ideas evolve, mistakes become learning opportunities, and successes take shape.
+A curious nerd who loves collecting and analyzing data. I enjoy a good CTF, uncovering the how and why behind incidents, tinkering with small computers, and, most importantly, always learning.
